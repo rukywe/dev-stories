@@ -1,11 +1,17 @@
+body{
+  background-color: #CEC2FF;
+}
 
 p {
   margin: 10px 0 !important;
 }
 
 .login-container {
+   display: flex;
+  align-items: center;
+  justify-content: center;
   width: 400px;
-  margin-top: 50px;
+  margin-top: 250px;
   text-align: center;
 }
 
@@ -25,3 +31,5 @@ p {
 .logo{
   margin-left: 10px;
 }
+
+
